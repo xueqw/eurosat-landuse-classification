@@ -1,0 +1,17 @@
+# data and large files are never committed (download with: python download_data.py)
+data/
+checkpoints/
+*.pth
+*.pt
+*.zip
+# local environment and OS files
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+# secrets
+kaggle.json
+.env
+# Word/PDF reports are submitted on Canvas; only the scripts that build them are kept
+reports/**/*.pdf
+reports/**/*.docx
