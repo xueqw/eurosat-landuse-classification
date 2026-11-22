@@ -1,0 +1,16 @@
+                      precision    recall  f1-score   support
+
+          AnnualCrop     0.7723    0.8667    0.8168       450
+              Forest     0.9778    0.9778    0.9778       450
+HerbaceousVegetation     0.7846    0.7933    0.7890       450
+             Highway     0.7825    0.7387    0.7599       375
+          Industrial     0.9439    0.9413    0.9426       375
+             Pasture     0.8151    0.7933    0.8041       300
+       PermanentCrop     0.7477    0.6480    0.6943       375
+         Residential     0.8926    0.9422    0.9168       450
+               River     0.8118    0.8053    0.8086       375
+             SeaLake     0.9821    0.9778    0.9800       450
+
+            accuracy                         0.8553      4050
+           macro avg     0.8510    0.8484    0.8490      4050
+        weighted avg     0.8546    0.8553    0.8542      4050

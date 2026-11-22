@@ -1,0 +1,12 @@
+{
+  "method": "Method 1: HOG+LBP+colour features + RBF SVM",
+  "C": 3.0,
+  "accuracy": 0.8553,
+  "macro_precision": 0.851,
+  "macro_recall": 0.8484,
+  "macro_f1": 0.849,
+  "n_test": 4050,
+  "n_support_vectors": 14505,
+  "train_seconds": 83.3,
+  "predict_ms_per_image": 13.332
+}
